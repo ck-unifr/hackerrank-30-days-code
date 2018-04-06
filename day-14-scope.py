@@ -4,6 +4,7 @@
 class Difference:
 
     def __init__(self, a):
+        #private variable
         self.__elements = a
 
     # Add your code here
@@ -18,3 +19,5 @@ d = Difference(a)
 d.computeDifference()
 
 print(d.maximumDifference)
+#ERROR
+#print(d.__elements)
