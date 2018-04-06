@@ -1,1 +1,1 @@
-# hackerrank-30-days-code
+# hackerrank 30 days code
